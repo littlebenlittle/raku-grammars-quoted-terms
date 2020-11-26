@@ -1,0 +1,14 @@
+{
+  "meta-version": "0",
+  "name": "Grammars::QuotedTerms",
+  "version": "0.0.0",
+  "auth": "github:littlebenlittle",
+  "description": "simple grammar for quoted text",
+  "source-url": "https://github.com/littlebenlittle/raku-grammars-quoted-terms.git",
+  "perl": "6.d",
+  "authors": [ "Ben Little <ben.little@benlittle.dev>" ],
+  "license": "Artistic-2.0",
+	"provides": {
+    "Grammars::QuotedTerms": "lib/Grammars/QuotedTerms.rakumod"
+	}
+}
